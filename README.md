@@ -1,5 +1,7 @@
 # Election_Analysis1
 
+#Election Audit Analysis
+
 #Purpose  
 The purpose of the election audit was to determine the total votes, the winner of the election, and several statistics breaking down the percentage of votes for    each candidate, as well as the raw number of votes received. In addition, the election audit provides statistics on county turnout and provides the percentage of votes for each county in the election as well as listing the county with the highest turnout of voters. Finally, the election audit provides detailed statistics of the winner of the election, the number of votes the winner recieved and the percentage of votes.
   
