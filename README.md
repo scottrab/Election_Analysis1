@@ -28,6 +28,7 @@ Winning Vote Count: 272,892
 Winning Percentage: 73.8%
 
 #Election Audit Summary
+
 The election results above were a result of a script written using Python 3.7 and this script, with a few adjustments, could be used to determine the winner of any election.  One way the script could be modified would be to add the percentage of votes each candidate recieved from each county.  This would be a useful statistic to know for a candidates campaign in order to target the right areas.  Another adjustment that could be made to the script would be to add more comments about the code so that it is even more readable for anyone to read and understand. 
 
 
